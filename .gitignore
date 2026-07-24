@@ -42,3 +42,6 @@ backend_check_fail.md
 frontend_check_fail.md 
 issue.md
 pr.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
