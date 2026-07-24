@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feature/fe-implement-internationalization-i18n-support-for-two-factor-authentication-setup-flow",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feature/fe-implement-internationalization-i18n-support-for-two-factor-authentication-setup-flow": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feature/fe-implement-internationalization-i18n-support-for-two-factor-authentication-setup-flow",
+    "origin"
+  ]
+}
